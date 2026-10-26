@@ -17,7 +17,7 @@ This project is a UI reproduction of the popular music streaming platform, Spoti
     *   Currently playing track information (album art, title, artist).
     *   Playback controls (play, pause, skip) and a styled progress bar.
     *   Volume and additional device controls.
-*   **Responsive Design:** Elements dynamically adjust or hide (e.g., specific navigation items) on screens smaller than 1000px.
+
 
 ## 🛠️ Technologies Used
 
