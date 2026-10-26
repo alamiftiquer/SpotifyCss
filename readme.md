@@ -1,6 +1,6 @@
 # Spotify Web Player Clone
 
-A static, responsive front-end clone of the Spotify Web Player user interface built using HTML and CSS. 
+A static, front-end clone of the Spotify Web Player user interface built using HTML and CSS. 
 
 ![Spotify frontend view](assets/Screenshot.png)
 
