@@ -2,6 +2,8 @@
 
 A static, responsive front-end clone of the Spotify Web Player user interface built using HTML and CSS. 
 
+![Spotify frontend view](assets/Screenshot.png)
+
 ## 🎵 Overview
 
 This project is a UI reproduction of the popular music streaming platform, Spotify. It demonstrates modern web layout techniques using CSS Flexbox, sticky positioning, and responsive design principles to create a familiar and user-friendly interface.
